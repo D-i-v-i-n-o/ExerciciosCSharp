@@ -1,0 +1,14 @@
+D:\ProjetosC#\SaqueBancario\SaqueBancario\bin\Debug\net9.0\SaqueBancario.exe
+D:\ProjetosC#\SaqueBancario\SaqueBancario\bin\Debug\net9.0\SaqueBancario.deps.json
+D:\ProjetosC#\SaqueBancario\SaqueBancario\bin\Debug\net9.0\SaqueBancario.runtimeconfig.json
+D:\ProjetosC#\SaqueBancario\SaqueBancario\bin\Debug\net9.0\SaqueBancario.dll
+D:\ProjetosC#\SaqueBancario\SaqueBancario\bin\Debug\net9.0\SaqueBancario.pdb
+D:\ProjetosC#\SaqueBancario\SaqueBancario\obj\Debug\net9.0\SaqueBancario.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjetosC#\SaqueBancario\SaqueBancario\obj\Debug\net9.0\SaqueBancario.AssemblyInfoInputs.cache
+D:\ProjetosC#\SaqueBancario\SaqueBancario\obj\Debug\net9.0\SaqueBancario.AssemblyInfo.cs
+D:\ProjetosC#\SaqueBancario\SaqueBancario\obj\Debug\net9.0\SaqueBancario.csproj.CoreCompileInputs.cache
+D:\ProjetosC#\SaqueBancario\SaqueBancario\obj\Debug\net9.0\SaqueBancario.dll
+D:\ProjetosC#\SaqueBancario\SaqueBancario\obj\Debug\net9.0\refint\SaqueBancario.dll
+D:\ProjetosC#\SaqueBancario\SaqueBancario\obj\Debug\net9.0\SaqueBancario.pdb
+D:\ProjetosC#\SaqueBancario\SaqueBancario\obj\Debug\net9.0\SaqueBancario.genruntimeconfig.cache
+D:\ProjetosC#\SaqueBancario\SaqueBancario\obj\Debug\net9.0\ref\SaqueBancario.dll
